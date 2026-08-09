@@ -1,0 +1,12 @@
+bin/*
+build/*
+CMakeFiles
+Makefile
+# *.cmake
+CMakeCache.txt
+
+# macos
+.DS_Store
+
+# cmake
+build/
